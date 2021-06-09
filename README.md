@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amirdarx
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Frontend 
+- 📫 instagram => amirdarx 
